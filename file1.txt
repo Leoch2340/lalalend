@@ -1,1 +1,2 @@
-"Изменения в master" 
+"Изменения в master"
+"Hello World"
